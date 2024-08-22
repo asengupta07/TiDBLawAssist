@@ -11,7 +11,7 @@ c.execute('''CREATE TABLE IF NOT EXISTS conversations
              (session_id TEXT, timestamp DATETIME, role TEXT, content TEXT)''')
 conn.commit()
 
-st.set_page_config(page_title="TiDB LawAssist", page_icon="⚖", layout="wide")
+st.set_page_config(page_title="TiDB LawAssist", page_icon="⚖", layout="centered")
 
 # Enhanced CSS for better design
 st.markdown("""
