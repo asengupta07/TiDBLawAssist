@@ -2,3 +2,4 @@ protobuf==5.27.3
 sentence_transformers==3.0.1
 streamlit==1.37.1
 tidb_vector==0.0.11
+google.generativeai
