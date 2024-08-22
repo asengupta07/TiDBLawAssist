@@ -20,18 +20,13 @@ st.markdown("""
     
     body {
         background-color: #1E1E1E;
-        color: #FFFFFF;
         font-family: 'Roboto', sans-serif;
     }
     .stTextInput > div > div > input {
         background-color: #2E2E2E;
-        color: #FFFFFF;
         border: 1px solid #4E4E4E;
         border-radius: 5px;
         padding: 10px;
-    }
-    .stMarkdown {
-        color: #FFFFFF;
     }
     .stButton > button {
         background-color: #FF8C00;
