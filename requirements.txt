@@ -3,4 +3,9 @@ sentence_transformers
 streamlit
 tidb_vector
 google.generativeai
-sqlalchemy 
+sqlalchemy
+mysql-client
+mysqlclient
+pymysql
+sentence-transformers 
+tidb-vector
